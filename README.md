@@ -1,1 +1,1 @@
-# C- Programming Basics - Lab 1 22/08/2023
+# C- Programming Basics - Lab 1 (22/08/2023)
